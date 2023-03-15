@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Vinoth",
+      "userName": "vinoth808",
+      "age": 24,
+      "gender": "Male",
+      "place": "Tirunelveli"
+    },
+    {
+      "id": 4,
+      "name": "vikram",
+      "userName": "vikram808",
+      "place": "Chennai",
+      "age": "27",
+      "gender": "Male"
+    },
+    {
+      "id": 5,
+      "name": "Mohammed Naveed",
+      "userName": "naveed98g",
+      "place": "Ambur",
+      "age": "24",
+      "gender": "Male"
+    }
+  ]
+}
